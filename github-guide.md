@@ -25,11 +25,14 @@
 ### Homeリポジトリの構成案
 
 - README.md
+- [github-guide.md]() ：GitHub Orgの使い方（本ドキュメント）
 - guidelines
     - public-private-policy.md: 社内資料含め、資材のアクセス範囲を記したガイドライン
-- onboarding　★ITDTで何が出来るのか棚卸し
+ 
+---
+### knowledgesリポジトリの構成案
+- onboarding　
     - [index.md]()：オンボーディングの目次
-    - [github-guide.md]() ：GitHub Orgの使い方（本ドキュメント）
     - [edc-setup.md]()：EDC環境の構築方法
     - [dataex-setup.md]()：DATA-EX環境の構築方法
     - vpn-setup.md：VPN網への参加方法
