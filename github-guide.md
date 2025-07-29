@@ -32,7 +32,7 @@
 ---
 ### knowledgesリポジトリの構成案
 - onboarding　
-    - [index.md]()：オンボーディングの目次
+    - [https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/cadde-setup.md]()：オンボーディングの目次
     - [edc-setup.md]()：EDC環境の構築方法
     - [dataex-setup.md]()：DATA-EX環境の構築方法
     - vpn-setup.md：VPN網への参加方法
