@@ -32,7 +32,7 @@
 ---
 ### knowledgesリポジトリの構成案
 - onboarding　
-    - [https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/index.md]()：オンボーディングの目次
-    - [https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/edc-setup.md]()：EDC環境の構築方法
-    - [https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/cadde-setup.md]()：DATA-EX環境の構築方法
-    - [https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/vpn-setup.md]：VPN網への参加方法
+    - [](https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/index.md)：オンボーディングの目次
+    - [](https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/edc-setup.md)：EDC環境の構築方法
+    - [](https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/cadde-setup.md)：DATA-EX環境の構築方法
+    - [](https://github.com/UTokyo-ITDT/knowledges/blob/main/onboarding/vpn-setup.md)：VPN網への参加方法
